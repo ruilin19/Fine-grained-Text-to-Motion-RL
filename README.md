@@ -6,7 +6,11 @@ The source code for "Motion Generation from Fine-grained Textual Descriptions Wi
 - Release inference code & visualization
 
 ## Acknowledgement
-Our work builds upon the following projects:\
-[VLM-R](https://github.com/om-ai-lab/VLM-R1)\
-[FineHumanML3D](https://github.com/KunhangL/finemotiondiffuse)\
-[Motion-R1](https://github.com/GigaAI-research/Motion-R1)
+Our work builds upon the following projects:
+* [VLM-R1](https://github.com/om-ai-lab/VLM-R1)
+* [FineHumanML3D](https://github.com/KunhangL/finemotiondiffuse)
+* [Motion-R1](https://github.com/GigaAI-research/Motion-R1)
+* [T2M-GPT](https://github.com/Mael-zys/T2M-GPT)
+* [MDM](https://github.com/GuyTevet/motion-diffusion-model)
+* [MotionGPT](https://github.com/qiqiApink/MotionGPT)\
+Thanks for their outstanding works！
