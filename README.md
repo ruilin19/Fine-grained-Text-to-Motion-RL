@@ -12,5 +12,6 @@ Our work builds upon the following projects:
 * [Motion-R1](https://github.com/GigaAI-research/Motion-R1)
 * [T2M-GPT](https://github.com/Mael-zys/T2M-GPT)
 * [MDM](https://github.com/GuyTevet/motion-diffusion-model)
-* [MotionGPT](https://github.com/qiqiApink/MotionGPT)\
+* [MotionGPT](https://github.com/qiqiApink/MotionGPT)
+
 Thanks for their outstanding works！
